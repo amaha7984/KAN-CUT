@@ -40,14 +40,6 @@ KAN-CUT is trained with identity preservation loss and with `lambda_NCE=1`, clos
 
 ### Citation
 If you use this code for your research, please cite our [paper](https://arxiv.org/pdf/2408.08216).
-```
-@article{mahara2024dawn,
-  title={The Dawn of KAN in Image-to-Image (I2I) Translation: Integrating Kolmogorov-Arnold Networks with GANs for Unpaired I2I Translation},
-  author={Mahara, Arpan and Rishe, Naphtali D and Deng, Liangdong},
-  journal={arXiv preprint arXiv:2408.08216},
-  year={2024}
-}
-```
 
 
 ### Acknowledgments
